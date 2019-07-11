@@ -1,6 +1,6 @@
 ---
 title: hexo基本命令
-date: 2018-07-03 21:49:52
+date: 2017-07-03 21:49:52
 tags: hexo
 categories: hexo
 ---
